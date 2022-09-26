@@ -1,0 +1,25 @@
+{
+    "name": "ibnudirsan/handle-http-api",
+    "description": "ini adalah package untuk meng-handle http request API La",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ibnudirsan\\HandleHttpApi\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ibnudirsan\\HandleHttpApi\\HttpHandleServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "ibnudirsan",
+            "email": "ibnudirsan@gmail.com"
+        }
+    ],
+    "require": {}
+}
