@@ -1,3 +1,7 @@
+[![Latest Version on Packagist](https://img.shields.io/github/v/release/ibnudirsan/Laravel-Handler-API)](https://packagist.org/packages/ibnudirsan/handle-http-api)
+
+
+
 # Laravel Handler API Laravel
 Laravel package untuk Handler Response http request API.
 
