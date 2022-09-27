@@ -1,7 +1,8 @@
 # Laravel Handler API Laravel
 [![Latest Version on Packagist](https://img.shields.io/github/v/release/ibnudirsan/Laravel-Handler-API)](https://packagist.org/packages/ibnudirsan/handle-http-api)
 ![Size Code on Packagist](https://img.shields.io/github/languages/code-size/ibnudirsan/Laravel-Handler-API?style=plastic)
-![Size Code on Packagist](https://img.shields.io/github/issues/ibnudirsan/Laravel-Handler-API)
+![issues on Packagist](https://img.shields.io/github/issues/ibnudirsan/Laravel-Handler-API)
+![follower on Packagist](https://img.shields.io/github/followers/ibnudirsan)
 
 Laravel package untuk Handler Response http request API.
 
