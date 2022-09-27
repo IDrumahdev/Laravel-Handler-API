@@ -1,8 +1,8 @@
 # Handler API Laravel
-[![Latest Version on Packagist](https://img.shields.io/github/v/release/ibnudirsan/Laravel-Handler-API)](https://packagist.org/packages/ibnudirsan/handle-http-api)
+[![Latest Version on Packagist](https://img.shields.io/github/v/release/ibnudirsan/Laravel-Handler-API?style=plastic)](https://packagist.org/packages/ibnudirsan/handle-http-api)
 ![Size Code on Packagist](https://img.shields.io/github/languages/code-size/ibnudirsan/Laravel-Handler-API?style=plastic)
-![issues on Packagist](https://img.shields.io/github/issues/ibnudirsan/Laravel-Handler-API)
-![follower on Packagist](https://img.shields.io/github/followers/ibnudirsan)
+![issues on Packagist](https://img.shields.io/github/issues/ibnudirsan/Laravel-Handler-API?style=plastic)
+![follower on Packagist](https://img.shields.io/github/followers/ibnudirsan?style=plastic)
 ![discussions on Packagist](https://img.shields.io/github/discussions/ibnudirsan/Laravel-Handler-API?style=plastic)
 ![commit on Packagist](https://img.shields.io/github/commit-activity/w/ibnudirsan/Laravel-Handler-API?style=plastic)
 
