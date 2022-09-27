@@ -9,7 +9,8 @@
 Laravel package untuk Handler Response http request API.
 
 ## Cara menggunakannya :
-install Package composer require ibnudirsan/handle-http-api
+install Package ``` composer require ibnudirsan/handle-http-api ```
+
 Untuk menghandle http code pada API bisa gunakan function ini :
 ```php
 // app/Exceptions/Handler.php
